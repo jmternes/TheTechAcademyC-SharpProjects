@@ -1,0 +1,13 @@
+C:\BasicC#Apps\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.exe
+C:\BasicC#Apps\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.deps.json
+C:\BasicC#Apps\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.json
+C:\BasicC#Apps\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.dev.json
+C:\BasicC#Apps\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.dll
+C:\BasicC#Apps\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.pdb
+C:\BasicC#Apps\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\BasicC#Apps\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfoInputs.cache
+C:\BasicC#Apps\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfo.cs
+C:\BasicC#Apps\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.CoreCompileInputs.cache
+C:\BasicC#Apps\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.dll
+C:\BasicC#Apps\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.pdb
+C:\BasicC#Apps\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.genruntimeconfig.cache
