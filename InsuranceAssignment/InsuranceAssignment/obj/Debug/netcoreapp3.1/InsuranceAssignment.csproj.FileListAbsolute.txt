@@ -1,0 +1,14 @@
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.exe
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.deps.json
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.runtimeconfig.json
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.runtimeconfig.dev.json
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.dll
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.pdb
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.csproj.AssemblyReference.cache
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.AssemblyInfoInputs.cache
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.AssemblyInfo.cs
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.csproj.CoreCompileInputs.cache
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.dll
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.pdb
+C:\BasicC#Apps\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.genruntimeconfig.cache
