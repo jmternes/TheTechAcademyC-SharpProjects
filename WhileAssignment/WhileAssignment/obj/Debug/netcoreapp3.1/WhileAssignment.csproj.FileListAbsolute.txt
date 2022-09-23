@@ -1,0 +1,14 @@
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\bin\Debug\netcoreapp3.1\WhileAssignment.exe
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\bin\Debug\netcoreapp3.1\WhileAssignment.deps.json
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\bin\Debug\netcoreapp3.1\WhileAssignment.runtimeconfig.json
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\bin\Debug\netcoreapp3.1\WhileAssignment.runtimeconfig.dev.json
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\bin\Debug\netcoreapp3.1\WhileAssignment.dll
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\bin\Debug\netcoreapp3.1\WhileAssignment.pdb
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\obj\Debug\netcoreapp3.1\WhileAssignment.csproj.AssemblyReference.cache
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\obj\Debug\netcoreapp3.1\WhileAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\obj\Debug\netcoreapp3.1\WhileAssignment.AssemblyInfoInputs.cache
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\obj\Debug\netcoreapp3.1\WhileAssignment.AssemblyInfo.cs
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\obj\Debug\netcoreapp3.1\WhileAssignment.csproj.CoreCompileInputs.cache
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\obj\Debug\netcoreapp3.1\WhileAssignment.dll
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\obj\Debug\netcoreapp3.1\WhileAssignment.pdb
+C:\BasicC#Apps\WhileAssignment\WhileAssignment\obj\Debug\netcoreapp3.1\WhileAssignment.genruntimeconfig.cache
