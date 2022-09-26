@@ -1,0 +1,14 @@
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.exe
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.deps.json
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.runtimeconfig.json
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.runtimeconfig.dev.json
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.dll
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.pdb
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.csproj.AssemblyReference.cache
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.AssemblyInfoInputs.cache
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.AssemblyInfo.cs
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.dll
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.pdb
+C:\BasicC#Apps\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.genruntimeconfig.cache
