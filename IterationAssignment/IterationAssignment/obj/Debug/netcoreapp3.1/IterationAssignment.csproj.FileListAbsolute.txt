@@ -1,0 +1,14 @@
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.csproj.AssemblyReference.cache
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.AssemblyInfoInputs.cache
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.AssemblyInfo.cs
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.exe
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.deps.json
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.runtimeconfig.json
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.runtimeconfig.dev.json
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.dll
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.pdb
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.dll
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.pdb
+C:\BasicC#Apps\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.genruntimeconfig.cache
