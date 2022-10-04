@@ -1,0 +1,14 @@
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.csproj.AssemblyReference.cache
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.AssemblyInfoInputs.cache
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.AssemblyInfo.cs
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.csproj.CoreCompileInputs.cache
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.exe
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.deps.json
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.runtimeconfig.json
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.runtimeconfig.dev.json
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.dll
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.pdb
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.dll
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.pdb
+C:\BasicC#Apps\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.genruntimeconfig.cache
