@@ -1,0 +1,14 @@
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\bin\Debug\netcoreapp3.1\MethodAssignment2.exe
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\bin\Debug\netcoreapp3.1\MethodAssignment2.deps.json
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\bin\Debug\netcoreapp3.1\MethodAssignment2.runtimeconfig.json
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\bin\Debug\netcoreapp3.1\MethodAssignment2.runtimeconfig.dev.json
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\bin\Debug\netcoreapp3.1\MethodAssignment2.dll
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\bin\Debug\netcoreapp3.1\MethodAssignment2.pdb
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\obj\Debug\netcoreapp3.1\MethodAssignment2.csproj.AssemblyReference.cache
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\obj\Debug\netcoreapp3.1\MethodAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\obj\Debug\netcoreapp3.1\MethodAssignment2.AssemblyInfoInputs.cache
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\obj\Debug\netcoreapp3.1\MethodAssignment2.AssemblyInfo.cs
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\obj\Debug\netcoreapp3.1\MethodAssignment2.csproj.CoreCompileInputs.cache
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\obj\Debug\netcoreapp3.1\MethodAssignment2.dll
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\obj\Debug\netcoreapp3.1\MethodAssignment2.pdb
+C:\BasicC#Apps\MethodAssignment2\MethodAssignment2\obj\Debug\netcoreapp3.1\MethodAssignment2.genruntimeconfig.cache
