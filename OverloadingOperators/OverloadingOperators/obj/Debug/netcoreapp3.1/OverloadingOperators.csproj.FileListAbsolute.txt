@@ -1,0 +1,5 @@
+C:\BasicC#Apps\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.csproj.AssemblyReference.cache
+C:\BasicC#Apps\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\BasicC#Apps\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.AssemblyInfoInputs.cache
+C:\BasicC#Apps\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.AssemblyInfo.cs
+C:\BasicC#Apps\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.csproj.CoreCompileInputs.cache
