@@ -1,0 +1,14 @@
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.exe
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.deps.json
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.json
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.dev.json
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.AssemblyReference.cache
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfoInputs.cache
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfo.cs
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\BasicC#Apps\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.genruntimeconfig.cache
