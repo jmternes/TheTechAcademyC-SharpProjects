@@ -1,0 +1,14 @@
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\bin\Debug\netcoreapp3.1\ChainingConstructors.exe
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\bin\Debug\netcoreapp3.1\ChainingConstructors.deps.json
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\bin\Debug\netcoreapp3.1\ChainingConstructors.runtimeconfig.json
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\bin\Debug\netcoreapp3.1\ChainingConstructors.runtimeconfig.dev.json
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\bin\Debug\netcoreapp3.1\ChainingConstructors.dll
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\bin\Debug\netcoreapp3.1\ChainingConstructors.pdb
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\obj\Debug\netcoreapp3.1\ChainingConstructors.csproj.AssemblyReference.cache
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\obj\Debug\netcoreapp3.1\ChainingConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\obj\Debug\netcoreapp3.1\ChainingConstructors.AssemblyInfoInputs.cache
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\obj\Debug\netcoreapp3.1\ChainingConstructors.AssemblyInfo.cs
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\obj\Debug\netcoreapp3.1\ChainingConstructors.csproj.CoreCompileInputs.cache
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\obj\Debug\netcoreapp3.1\ChainingConstructors.dll
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\obj\Debug\netcoreapp3.1\ChainingConstructors.pdb
+C:\BasicC#Apps\ChainingConstructors\ChainingConstructors\obj\Debug\netcoreapp3.1\ChainingConstructors.genruntimeconfig.cache
